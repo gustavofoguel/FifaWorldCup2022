@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace TabelaFifaWorldCup2022
@@ -29,7 +30,7 @@ namespace TabelaFifaWorldCup2022
             await Task.Delay(300);
             TelaJogosConficao = false;
 
-            await Navigation.PushAsync(telaJogos);
+            await Navigation.PushAsync(new TelaJogos());
         }
     }
 }

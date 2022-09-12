@@ -1,1 +1,1 @@
-C:\TabelaFifaWorldCup2022\TabelaFifaWorldCup2022\TabelaFifaWorldCup2022\TabelaFifaWorldCup2022.UWP\TabelaFifaWorldCup2022.UWP.csproj;x86
+C:\Users\Gustavo\Desktop\dasdasd\TabelaFifaWorldCup2022\TabelaFifaWorldCup2022.UWP\TabelaFifaWorldCup2022.UWP.csproj;x86
